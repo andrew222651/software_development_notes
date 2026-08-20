@@ -292,6 +292,7 @@ tx A waits for a `key share` lock on the parent row, deadlock!
 
 in my production experience, the
 best balance of correctness, performance, and
-availability is `READ COMMITTED`, using explicit locks that suffice for
-serializability given the set of other transactions present in the application(s)
+availability is `SERIALIZABLE` for read-only transactions and
+primarily `READ COMMITTED` for read-write transactions, using explicit locks that suffice for
+serializable execution given the set of other transactions present in the application(s)
 (not all theoretically possible other transactions). 
