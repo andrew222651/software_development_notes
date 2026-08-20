@@ -1,6 +1,8 @@
+# Applications of Distributed Algorithms
+
 Two major application areas of distributed algorithms are distributed databases and fault tolerance in server-side applications.
 
-# Fault tolerance in server-side applications
+## Fault tolerance in server-side applications
 
 If you have to replicate data across a local and a remote database, it can be
 helpful to store the local primary key in metadata associated with the remote data record.

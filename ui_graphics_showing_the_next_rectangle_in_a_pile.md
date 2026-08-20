@@ -1,3 +1,5 @@
+# UI Graphics: Showing the Next Rectangle in a Pile
+
 Browser extensions like Surfingkeys allow you to click links using the keyboard. To do this you first turn on "link hints", which are sequences of letters shown in a box beside each link on the page. Type the sequence of letters and you go to the link. But what if links are packed tightly together and hints cover each other up?
 
 ![Overlapping link hints](https://user-images.githubusercontent.com/889657/233379197-9de0de55-d1dc-4567-9ad2-4b7620c3b8d5.png)

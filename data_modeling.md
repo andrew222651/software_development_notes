@@ -1,3 +1,5 @@
+# Data Modeling
+
 pattern for data with history: use two columns, `set_at` (datetime) and
 `is_current` (boolean). Exactly one row corresponding to a given datum can have
 `is_current=true`. All columns with `is_current=false` are read-only. The

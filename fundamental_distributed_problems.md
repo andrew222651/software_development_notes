@@ -1,3 +1,5 @@
+# Fundamental Distributed Problems
+
 Conferences: 
 * [Principles of Distributed Computing](https://dl.acm.org/conference/podc)
 
@@ -107,7 +109,7 @@ synchronization or not serve requests at all. e.g. cockroachdb [chooses
 consistency](https://www.cockroachlabs.com/blog/limits-of-the-cap-theorem/)
 instead of availability
 
-# reductions
+## reductions
 
 x -> y means you can use x to solve y
 

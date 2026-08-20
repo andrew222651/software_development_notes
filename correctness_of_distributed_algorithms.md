@@ -1,3 +1,5 @@
+# Correctness of Distributed Algorithms
+
 distributed systems are not just concurrent but have potential for partial
 failure and don't have access to the same clock.
 
@@ -60,7 +62,7 @@ probabilistic failure detectors <abbr title="Hayashibara and Defago and Yared et
 * used in Cassandra
 
 
-# tools
+## tools
 
 testing
 * https://github.com/jepsen-io/jepsen

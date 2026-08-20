@@ -1,3 +1,5 @@
+# Interviewing Programmers
+
 Predictably, Robin Hanson [suggests](https://www.overcomingbias.com/2022/05/new-hire-prediction-markets.html)
 using prediction markets to evaluate candidates.
 Variants to create a separating equilibrium include candidates paying an application fee (illegal), or offering free trials
