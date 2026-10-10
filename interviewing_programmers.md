@@ -18,7 +18,7 @@ them
 GitHub has "available for hire" flag on profiles but workable API is not
 available and they got rid of their own jobs platform. So companies can't seek
 out candidates, candidates must seek out the company. To determine where to advertise,
-just ask you current employees where they'd look for a job.
+just ask your current employees where they'd look for a job.
 
 
 ### Criteria
